@@ -29,3 +29,30 @@ htmlcov/
 .vscode/
 .idea/
 .DS_Store
+
+# Next.js
+.next/
+out/
+.vercel/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Python caches
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+__pycache__/
+
+# Environment and secrets
+*.pem
+*.key
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
